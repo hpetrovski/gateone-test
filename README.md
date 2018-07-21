@@ -13,21 +13,21 @@ This app uses vue, vue-router, element-ui and ES6 syntax so if you have any prob
 
 ## Components
 
-  ### Post List
-  * we've created a simple component that loads posts in a table component (see: Element UI)
-  * allow the user to sort the table by any field
-  * allow the user to select one or multiple posts and add them to a favorites list
-  * save the favorites list to localStorage
+### Post List
+* we've created a simple component that loads posts in a table component (see: Element UI)
+* allow the user to sort the table by any field
+* allow the user to select one or multiple posts and add them to a favorites list
+* save the favorites list to localStorage
 
-  ### Favorites
-  * create a favorites component that displays the list with all favorite posts
-  * load the favorites list from localStorage (should work after refresh)
-  * allow the user to remove favorites from the list
+### Favorites
+* create a favorites component that displays the list with all favorite posts
+* load the favorites list from localStorage (should work after refresh)
+* allow the user to remove favorites from the list
 
-  ### Post View
-  * create a component that loads the specific post
-  * render the post content and title
-  * iterate and display all comments related to that post
+### Post View
+* create a component that loads the specific post
+* render the post content and title
+* iterate and display all comments related to that post
 
 ## Styling
 
