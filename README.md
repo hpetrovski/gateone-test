@@ -2,6 +2,7 @@ We've created a simple Vue app which loads 100 posts from an open test API. Your
 This app uses vue, vue-router, element-ui and ES6 syntax so if you have any problems refer to the corresponding documentations.
 
 ### To install this app
+
     * install Node.js LTS
     * install Vue CLI globally
     ``` npm install -g @vue/cli ```
