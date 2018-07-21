@@ -3,9 +3,12 @@ This app uses vue, vue-router, element-ui and ES6 syntax so if you have any prob
 
 ## To install this app
     * install Node.js LTS
-    * install Vue CLI globally ```npm install -g @vue/cli```
-    * install project modules ```npm install```
-    * run the project ```npm run serve```
+    * install Vue CLI globally
+        ```npm install -g @vue/cli```
+    * install project modules
+        ```npm install```
+    * run the project
+        ```npm run serve```
 
 ### Components
 
