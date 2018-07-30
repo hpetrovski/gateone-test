@@ -21,6 +21,7 @@
 <style scoped lang="scss">
     h3 {
         margin: 40px 0 0;
+        
     }
 
     ul {
@@ -36,4 +37,8 @@
     a {
         color: #42b983;
     }
+
+    
+
+
 </style>
